@@ -1,7 +1,17 @@
 
-body {
-    background: #cccccc;
+/* body {
+   
+} */
+
+#banner {
+    width: 100%;
 }
+
+.main {
+    background: #cccccc;
+    padding: 30px;
+}
+
 h1 {
     text-align: center;
 }
@@ -10,10 +20,34 @@ p {
     font-size: 20px;
 }
 
-#missao {
+#mission {
     font-size: 20px;
 }
 
 em strong {
     color: #ff0000;
+}
+
+.items {
+    font-style: italic;
+}
+
+.advantage {
+    background: #ffffff;
+    padding: 30px;
+}
+
+h2 {
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+.imageadvantages {
+    width: 50%;
+    
 }
