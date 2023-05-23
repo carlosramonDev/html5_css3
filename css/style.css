@@ -12,7 +12,11 @@
     padding: 30px;
 }
 
-h1 {
+.title-main {
+    padding-left: 20px;
+}
+
+.center-text  {
     text-align: center;
 }
 
@@ -28,6 +32,13 @@ em strong {
     color: #ff0000;
 }
 
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
 .items {
     font-style: italic;
 }
@@ -37,16 +48,6 @@ em strong {
     padding: 30px;
 }
 
-h2 {
-    text-align: center;
-}
-
-ul {
-    display: inline-block;
-    vertical-align: top;
-    width: 20%;
-    margin-right: 15%;
-}
 .imageadvantages {
     width: 50%;
     
